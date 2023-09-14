@@ -1,5 +1,5 @@
 """
-A simple implementation of insertion sort. 
+An implementation of insertion sort. 
 
 Insertion sort works by comparing an element to its predecessor and 
 if the element is less than the predecessor, both elements are swapped.
