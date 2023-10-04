@@ -1,4 +1,4 @@
-# Sorting
+# Sorting (Work in Progress)
 
 A collection of sorting algorithms along with a visualizer
 
